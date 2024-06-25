@@ -1,1 +1,5 @@
-# code_blue
+# NLP Analysis of Medical TV Dramas
+T. Datta, K. Lin - DS 3500
+
+# Description
+This project aims to conduct an in-depth analysis of scripts from several renowned medical TV series, including "Grey's Anatomy," "The Good Doctor," "Scrubs," "House," "The Mindy Project," and "The Resident." Our objective is to meticulously examine the dialogue, themes, and emotional nuances present within each show. Through this analysis, we seek to gain insights into the characters' development, narrative structures, and the portrayal of medical scenarios. By employing sentiment analysis techniques and identifying recurring language patterns, we aim to uncover the distinctive elements that contribute to the appeal and impact of each series. Additionally, by comparing scripts and calculating cosine similarity, we endeavor to discern commonalities and differences in storytelling approaches and character portrayals across these iconic medical dramas. Ultimately, our goal is to provide a comprehensive understanding of the cultural significance and portrayal of healthcare and medicine within the realm of popular media.
